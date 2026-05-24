@@ -39,15 +39,18 @@ permitindo que a equipe de pós-venda tome ações preventivas de forma rápida 
 A proposta do projeto é melhorar a retenção de clientes no pós-venda Ford através de uma interface moderna, intuitiva e inteligente.
 
 🖥️ Funcionalidades
+
 ✅ Tela de Login
 Interface moderna inspirada no padrão visual Ford
 Layout premium com background automotivo
 Navegação para dashboard
+
 ✅ Dashboard Inteligente
 Cards de risco de clientes
 Indicadores visuais
 Clientes prioritários
 Interface dark mode futurista
+
 ✅ Gestão de Clientes
 Cards com:
 Foto do veículo
@@ -58,11 +61,13 @@ Cidade
 Telefone
 E-mail
 Status de risco
+
 ✅ Navegação entre telas
 Login
 Dashboard
 Clientes
 Detalhes do cliente
+
 🚀 Tecnologias utilizadas
 React Native
 Expo
@@ -71,6 +76,7 @@ TypeScript
 JavaScript
 React Navigation
 CSS-in-JS (StyleSheet)
+
 🎨 Design
 
 O projeto utiliza:
@@ -79,6 +85,7 @@ Interface dark mode
 Elementos neon/futuristas
 Estética automotiva premium
 Componentes modernos inspirados em dashboards corporativos
+
 📂 Estrutura do projeto
 src/
  ├── app/
@@ -92,14 +99,20 @@ src/
  │
 assets/
  └── images/
+ 
 ▶️ Como executar o projeto
+
 1. Clone o repositório
 git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+
 2. Instale as dependências
 npm install
+
 3. Inicie o projeto
 npx expo start
+
 📸 Preview
+
 Login
 Interface moderna com background automotivo
 Painel corporativo Ford
@@ -111,7 +124,9 @@ Clientes
 Visual em cards
 Informações completas
 Organização por risco
+
 🔮 Melhorias futuras
+
 Integração com backend
 Banco de dados
 Login real
