@@ -87,17 +87,26 @@ Estética automotiva premium
 Componentes modernos inspirados em dashboards corporativos
 
 📂 Estrutura do projeto
+
 src/
+
  ├── app/
+ 
  │    ├── index.tsx
+ 
  │    ├── dashboard.tsx
+ 
  │    ├── clientes.tsx
+ 
  │    └── detalhes.tsx
  │
  ├── data/
+ 
  │    └── clientes.ts
+ 
  │
 assets/
+
  └── images/
  
 ▶️ Como executar o projeto
