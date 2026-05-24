@@ -112,7 +112,7 @@ assets/
 ▶️ Como executar o projeto
 
 1. Clone o repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/miguelourenco31/Ford-Retain.git
 
 2. Instale as dependências
 npm install
