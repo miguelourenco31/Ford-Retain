@@ -5,9 +5,13 @@ Sistema inteligente de retenção para o pós-venda Ford, desenvolvido para auxi
 Integrantes
 
 Lorenzzo Dias - RM558305
+
 Miguel Lourenço - RM555426
+
 Pedro Ferronato - 554757
+
 Gabriel Martins - 556883
+
 Athos Rodrigues - 555515
 
 📌 Sobre o projeto
@@ -23,7 +27,9 @@ Risco de abandono
 O sistema organiza os clientes em níveis de risco:
 
 🔴 Alto risco
+
 🟡 Médio risco
+
 🟢 Baixo risco
 
 permitindo que a equipe de pós-venda tome ações preventivas de forma rápida e inteligente.
